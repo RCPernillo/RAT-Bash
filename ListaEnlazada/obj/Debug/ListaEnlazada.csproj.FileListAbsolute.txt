@@ -1,0 +1,23 @@
+C:\Users\Armando Ventura\AppData\Local\Temporary Projects\ListaEnlazada\bin\Debug\ListaEnlazada.exe.config
+C:\Users\Armando Ventura\AppData\Local\Temporary Projects\ListaEnlazada\bin\Debug\ListaEnlazada.exe
+C:\Users\Armando Ventura\AppData\Local\Temporary Projects\ListaEnlazada\bin\Debug\ListaEnlazada.pdb
+C:\Users\Armando Ventura\AppData\Local\Temporary Projects\ListaEnlazada\obj\Debug\ListaEnlazada.exe
+C:\Users\Armando Ventura\AppData\Local\Temporary Projects\ListaEnlazada\obj\Debug\ListaEnlazada.pdb
+C:\Users\Armando Ventura\Desktop\Ingeniería en Sistemas Umg\Semestre 5\Programación III\2021\Tarea 3\Inciso 1\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.exe.config
+C:\Users\Armando Ventura\Desktop\Ingeniería en Sistemas Umg\Semestre 5\Programación III\2021\Tarea 3\Inciso 1\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.exe
+C:\Users\Armando Ventura\Desktop\Ingeniería en Sistemas Umg\Semestre 5\Programación III\2021\Tarea 3\Inciso 1\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.pdb
+C:\Users\Armando Ventura\Desktop\Ingeniería en Sistemas Umg\Semestre 5\Programación III\2021\Tarea 3\Inciso 1\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.exe
+C:\Users\Armando Ventura\Desktop\Ingeniería en Sistemas Umg\Semestre 5\Programación III\2021\Tarea 3\Inciso 1\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.pdb
+C:\Users\Armando Ventura\Desktop\Ingeniería en Sistemas Umg\Semestre 5\Programación III\2021\Tarea 3\Inciso 1\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.csprojResolveAssemblyReference.cache
+C:\Users\Armando Ventura\Desktop\Ingeniería en Sistemas Umg\Semestre 5\Programación III\2021\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.exe.config
+C:\Users\Armando Ventura\Desktop\Ingeniería en Sistemas Umg\Semestre 5\Programación III\2021\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.exe
+C:\Users\Armando Ventura\Desktop\Ingeniería en Sistemas Umg\Semestre 5\Programación III\2021\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.pdb
+C:\Users\Armando Ventura\Desktop\Ingeniería en Sistemas Umg\Semestre 5\Programación III\2021\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.exe
+C:\Users\Armando Ventura\Desktop\Ingeniería en Sistemas Umg\Semestre 5\Programación III\2021\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.pdb
+C:\Users\rober\Desktop\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.exe.config
+C:\Users\rober\Desktop\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.exe
+C:\Users\rober\Desktop\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.pdb
+C:\Users\rober\Desktop\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.exe
+C:\Users\rober\Desktop\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.pdb
